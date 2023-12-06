@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1685298294 source:c:\users\kenobi\documents\c projektek\nhf2\kinezet.cpp
+	"kinezet.h"
+	<cstring>
+
+1685296111 c:\users\kenobi\documents\c projektek\nhf2\kinezet.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685304604 source:c:\users\kenobi\documents\c projektek\nhf2\main.cpp
+	<iostream>
+	<string>
+	"iskola.hpp"
+	"fajlkezeles.h"
+	"menu.h"
+
+1685304920 c:\users\kenobi\documents\c projektek\nhf2\iskola.hpp
+	<iostream>
+	"datum.h"
+
+1684206486 c:\users\kenobi\documents\c projektek\nhf2\datum.h
+
+1685304722 c:\users\kenobi\documents\c projektek\nhf2\fajlkezeles.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"iskola.hpp"
+
+1685292235 c:\users\kenobi\documents\c projektek\nhf2\menu.h
+
+1685297927 source:c:\users\kenobi\documents\c projektek\nhf2\menu.cpp
+	"menu.h"
+	"kinezet.h"
+	<unistd.h>
+
+1685304722 source:c:\users\kenobi\documents\c projektek\nhf2\fajlkezeles.cpp
+	"fajlkezeles.h"
+
+1685304870 source:c:\users\kenobi\documents\c projektek\nhf2\inicializalas.cpp
+	"fajlkezeles.h"
+
